@@ -65,7 +65,7 @@ GLOBAL_SENTIMENT_KEYWORDS = ["tariff", "trade", "inflation", "dollar", "stock", 
 # Banner ASCII
 BANNER = f"""
 {Fore.CYAN + Style.BRIGHT}==========================================
-     CRYPTO AUTO-TRADING BOT by Grok
+     CRYPTO AUTO-TRADING BOT by Ibar(r00tH3x)
 =========================================={Style.RESET_ALL}
 """
 
