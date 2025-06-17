@@ -44,8 +44,8 @@ Dibuat untuk memindai, memilih, dan mengeksekusi posisi secara otomatis berdasar
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/username/supersignal-futures.git
-cd supersignal-futures
+git clone https://github.com/r00tH3x/TadingFutures
+cd TadingFutures
 ```
 
 ### 2. Rename file utama (wajib)
