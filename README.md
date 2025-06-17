@@ -133,7 +133,7 @@ Bot akan memindai hingga 30+ koin dan memilih koin terbaik berdasarkan skor vola
 
 ## 🧑‍💻 Developer
 
-Tool ini dibuat oleh **Imam Barmawi (a.k.a. Grok)** untuk eksplorasi dan edukasi trading futures berbasis AI.
+Tool ini dibuat oleh **IBAR (a.k.a. r00tH3x)** untuk eksplorasi dan edukasi trading futures berbasis AI.
 
 ## ⚠️ Disclaimer
 
