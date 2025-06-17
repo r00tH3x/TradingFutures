@@ -1,0 +1,10 @@
+binance
+websocket-client
+pandas
+numpy
+pandas-ta
+feedparser
+tensorflow
+scikit-learn
+colorama
+requests
